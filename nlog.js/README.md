@@ -4,8 +4,6 @@ nlog.js
 一个和badjs后端对接的前端错误上报脚本, 支持console关联上报.
 
 和后端约定的协议:
-
-
 /**
  * @param {String}  nodeIp     节点ip
  * @param {Bool}  shutdown   是否关闭异常监测
